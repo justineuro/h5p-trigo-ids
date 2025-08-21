@@ -1,5 +1,5 @@
 ## h5p-trigo-ids
-[h5p-trigo-ids](https://github.com/justineuro/h5p-trigo-ids) contains [H5Ps](https://h5p.org) that may be used to aid in learning trigonometric identities. Among the H5P types that are included so far are [Memory Games](), [Dialog Cards](), [Drag-the-Words]().
+[h5p-trigo-ids](https://github.com/justineuro/h5p-trigo-ids) contains [H5Ps](https://h5p.org) that may be used to aid in learning trigonometric identities. Among the H5P types that are included so far are [Memory Games](https://h5p.org/memory-game), [Dialog Cards](https://h5p.org/dialog-cards), [Drag-the-Words](https://h5p.org/drag-the-words).
 
 ---
 ### Memory Games

@@ -1,7 +1,7 @@
 ## h5p-trigo-ids
 [h5p-trigo-ids](https://github.com/justineuro/h5p-trigo-ids) contains [H5Ps](https://h5p.org) that may be used to aid in learning trigonometric identities. Among the H5P types that are included so far are [Memory Games](), [Dialog Cards](), [Drag-the-Words]().
 
-
+---
 ### Memory Games
 <video width="450" height="450" controls>
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-38-22-recip-pyth.mp4" type="video/mp4">
@@ -15,7 +15,7 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 * [`Trigonometry-Trigonometric-Identities-OddEven-Functions-memoryGame.h5p`](./Trigonometry-Trigonometric-Identities-OddEven-Functions-memoryGame.h5p) - memory game involving the trigonometric odd-even function identities
 * [`Trigonometry-Trigonometric-Identities-General-Addition-memoryGame.h5p`](./Trigonometry-Trigonometric-Identities-General-Addition-memoryGame.h5p) - memory game involving trigonometric general addition identities
 
-
+---
 ### Dialog Cards
 <video width="450" height="450" controls>
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-43-11-funda-dialog.mp4" type="video/mp4">
@@ -26,7 +26,7 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-NoAdv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is allowed but the learner must turn a dialog card before adavancing to the next card within a repetition.
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-noRep-noTand.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is not allowed and the cards are not randomized.
 
-
+---
 ### Drag-the-Words
 <video width="450" height="450" controls>
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-23-38-fundatrig.mp4" type="video/mp4">

@@ -23,8 +23,8 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; both repetitive learning and automatic progression are allowed.
-* [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-NoAdv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is allowed but the learner must turn a dialog card before adavancing to the next card within a repetition.
-* [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-noRep-noTand.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is not allowed and the cards are not randomized.
+* [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-NoAdv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-NoAdv.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is allowed but the learner must turn a dialog card before adavancing to the next card within a repetition.
+* [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-noRep-noRand.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-noRep-noRand.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is not allowed and the cards are not randomized.
 
 ---
 ### Drag-the-Words
@@ -41,7 +41,7 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 ### Notes:  
 1. H5P files may conveniently be viewed by using the [Lumi](https://lumi.education/en/) app.
 2. Many H5Ps may be saved as single-page HTML files by using the Lumi software: open the H5P in the Lumi software then export as HTML; see examples here: [`h5p-LET-GenEd-Math-HTML`](https://github.com/justineuro/h5p-LET-GenEd-Math-HTML).
-3. One may also use the bash scripts: [h5p-view]()/[h5p-play]().  Please visit the previous links for more information.
+3. One may also use the bash scripts: [`h5p-view/h5p-play`](https://github.com/justineuro/h5p-view).  Please visit the previously provided links for more information.
 
 
 ### License

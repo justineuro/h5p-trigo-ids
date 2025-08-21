@@ -3,7 +3,7 @@
 
 
 ### Memory Games
-![Example of Drag-the-Words](./2025-08-21-11-38-22-recip-pyth.mkv)  
+![Example of Memory Game](./2025-08-21-11-38-22-recip-pyth.mkv)  
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p) - memory game involving fundamental the Pythagorean and reciprocal trigonometric identities (big images)
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Identities-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Identities-memoryGame.h5p) - memory game involving fundamental reciprocal trigonometric identities
@@ -24,7 +24,7 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 
 
 ### Drag-the-Words
-![Example of Drag-the-Words](./2025-08-21-11-23-38-fundatrig.mkv)  
+![Example of Drag-the-Words](./2025-08-21-11-23-38-fundatrig.mp4)  
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dragWords.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dragWords.h5p) - a Drag-the-Words H5P involving fundamental trigonometric identities
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dragWords-v2.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dragWords-v2.h5p) - another example of a Drag-the-Words H5P involving fundamental trigonometric identities

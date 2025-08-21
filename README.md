@@ -4,10 +4,8 @@
 
 ### Memory Games
 <video width="450" height="450" controls>
-  <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-38-22-recip-pyth.mkv" type="video/mkv">
+  <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-38-22-recip-pyth.mp4" type="video/mp4">
 </video>  
-
-![Example of Memory Game](./2025-08-21-11-38-22-recip-pyth.mkv)  
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p) - memory game involving fundamental the Pythagorean and reciprocal trigonometric identities (big images)
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Identities-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Identities-memoryGame.h5p) - memory game involving fundamental reciprocal trigonometric identities
@@ -19,7 +17,9 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 
 
 ### Dialog Cards
-![Example of Dialog Cards](./2025-08-21-11-43-11-funda-dialog.mkv)  
+<video width="450" height="450" controls>
+  <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-43-11-funda-dialog.mp4" type="video/mp4">
+</video>  
 
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; both repetitive learning and automatic progression are allowed.
@@ -31,14 +31,6 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 <video width="450" height="450" controls>
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-23-38-fundatrig.mp4" type="video/mp4">
 </video>  
-
-<video width="640" height="640" controls>
-  <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-23-38-fundatrig.ogv" type="video/ogv">
-</video>  
-https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mp4  
-[![](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mp4)](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mp4)  
-[![Example of Drag-the-Words](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.ogv)](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.ogv)  
-[![Example of Drag-the-Words](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mkv)](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mkv)  
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dragWords.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dragWords.h5p) - a Drag-the-Words H5P involving fundamental trigonometric identities
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dragWords-v2.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dragWords-v2.h5p) - another example of a Drag-the-Words H5P involving fundamental trigonometric identities

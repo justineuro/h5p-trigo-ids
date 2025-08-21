@@ -3,6 +3,10 @@
 
 
 ### Memory Games
+<video width="450" height="450" controls>
+  <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-38-22-recip-pyth.mkv" type="video/mkv">
+</video>  
+
 ![Example of Memory Game](./2025-08-21-11-38-22-recip-pyth.mkv)  
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p) - memory game involving fundamental the Pythagorean and reciprocal trigonometric identities (big images)
@@ -24,7 +28,7 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 
 
 ### Drag-the-Words
-<video width="320" height="320" controls>
+<video width="450" height="450" controls>
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-23-38-fundatrig.mp4" type="video/mp4">
 </video>  
 

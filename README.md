@@ -24,9 +24,10 @@ Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 
 
 ### Drag-the-Words
-![Example of Drag-the-Words](./2025-08-21-11-23-38-fundatrig.mp4)  
-![Example of Drag-the-Words](./2025-08-21-11-23-38-fundatrig.ogv)  
+[![Example of Drag-the-Words](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mp4)](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.ogv)  
+[![Example of Drag-the-Words](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.ogv)](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.ogv) 
 
+[![Example of Drag-the-Words](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mkv)](https://github.com/justineuro/h5p-trigo-ids/blob/main/2025-08-21-11-23-38-fundatrig.mkv) 
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dragWords.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dragWords.h5p) - a Drag-the-Words H5P involving fundamental trigonometric identities
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dragWords-v2.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dragWords-v2.h5p) - another example of a Drag-the-Words H5P involving fundamental trigonometric identities

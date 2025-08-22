@@ -7,20 +7,19 @@
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-38-22-recip-pyth.mp4" type="video/mp4">
 </video>  
 
-* [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p) - memory game involving fundamental the Pythagorean and reciprocal trigonometric identities (big images)
+* [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Pythagorean-memoryGame.h5p) - memory game involving the fundamental Pythagorean and reciprocal trigonometric identities (big images)
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Identities-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Identities-memoryGame.h5p) - memory game involving fundamental reciprocal trigonometric identities
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Quotient.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Quotient.h5p) - memory game involving the fundamental reciprocal and quotient trigonometric identities
 * [`Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Quotient-memoryGame.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-Reciprocal-Quotient-memoryGame.h5p) - memory game involving the fundamental reciprocal and quotient trigonometric identities (bigger images)
-Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p
 * [`Trigonometry-Trigonometric-Identities-OddEven-Functions-memoryGame.h5p`](./Trigonometry-Trigonometric-Identities-OddEven-Functions-memoryGame.h5p) - memory game involving the trigonometric odd-even function identities
 * [`Trigonometry-Trigonometric-Identities-General-Addition-memoryGame.h5p`](./Trigonometry-Trigonometric-Identities-General-Addition-memoryGame.h5p) - memory game involving trigonometric general addition identities
+* [`Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p`](./Trigonometry-Trigonometric-Identities-General-Addition-Combined-memoryGame.h5p) - memory game involving trigonometric general addition identities with the +/- signs combined
 
 ---
 ### Dialog Cards
 <video width="450" height="450" controls>
   <source src="https://justineuro.github.io/h5p-trigo-ids/2025-08-21-11-43-11-funda-dialog.mp4" type="video/mp4">
 </video>  
-
 
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-Adv.h5p) - dialog cards regarding fundamental trigonometric identities; both repetitive learning and automatic progression are allowed.
 * [`Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-NoAdv.h5p`](./Trigonometry-Fundamental-Trigonometric-Identities-dialogCards-Rep-NoAdv.h5p) - dialog cards regarding fundamental trigonometric identities; repetitive learning is allowed but the learner must turn a dialog card before adavancing to the next card within a repetition.
